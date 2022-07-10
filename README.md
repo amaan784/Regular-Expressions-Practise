@@ -3,4 +3,4 @@
 
 https://www.dataquest.io/blog/regex-cheatsheet/
 
-https://www.youtube.com/watch?v=AEE9ecgLgdQ
+[Regex Crash Course](https://www.youtube.com/watch?v=AEE9ecgLgdQ)
