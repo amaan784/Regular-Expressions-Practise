@@ -12,3 +12,5 @@ https://uibakery.io/regex-library/html-regex-python
 https://medium.com/@jorlugaqui/how-to-strip-html-tags-from-a-string-in-python-7cb81a2bbf44
 
 https://en.wikipedia.org/wiki/Regular_expression
+
+https://youtu.be/nxjwB8up2gI
