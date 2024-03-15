@@ -14,3 +14,7 @@ https://medium.com/@jorlugaqui/how-to-strip-html-tags-from-a-string-in-python-7c
 https://en.wikipedia.org/wiki/Regular_expression
 
 https://youtu.be/nxjwB8up2gI
+
+Future-
+
+- Possible web app for searching with the help of regex patterns
