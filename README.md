@@ -3,6 +3,8 @@
 
 [Regex Crash Course](https://www.youtube.com/watch?v=AEE9ecgLgdQ)
 
+https://www.python-engineer.com/posts/regular-expressions/
+
 https://www.dataquest.io/blog/regex-cheatsheet/
 
 https://www.pythonsheets.com/notes/python-rexp.html
